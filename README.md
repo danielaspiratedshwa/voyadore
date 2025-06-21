@@ -1,2 +1,2 @@
-# voyadore
+# voyadores
 школа-онлайн
